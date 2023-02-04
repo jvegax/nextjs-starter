@@ -1,3 +1,4 @@
+/* eslint-disable react/function-component-definition */
 import {
   Html, Head, Main, NextScript,
 } from 'next/document';
