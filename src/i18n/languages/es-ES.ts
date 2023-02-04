@@ -1,4 +1,4 @@
-import type { Dictionary } from 'i18n/types';
+import { Dictionary } from '../types';
 
 const dictionary: Dictionary = {
   character: 'Personajes',

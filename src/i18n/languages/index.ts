@@ -1,4 +1,4 @@
-import type { Dictionary } from 'i18n/types';
+import { Dictionary } from '../types';
 import en_US from './en-US';
 import es_ES from './es-ES';
 
