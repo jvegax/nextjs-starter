@@ -1,4 +1,3 @@
-const name = (params:type) => null;
-
+const name = () => null;
 
 export default name;
